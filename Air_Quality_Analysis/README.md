@@ -6,3 +6,6 @@ The motivation behind the analysis is the growing concerns of impacts of air pol
 Leveraging advanced analytics, this study aims to offer insights into the geographical distribution of air pollution, facilitating the development of strategic environmental policies and targeted public health initiatives on a global scale.
 
 Check out the findings here: <link> https://www.kaggle.com/code/rohit1386/aqi-analysis</link>
+
+## Data Acquisition and Processing¶
+The dataset is named "World Air Quality Index by City and Coordinates", is aquired from Kaggle and it is licensed under CC BY-NC-SA 4.0. https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates/data
