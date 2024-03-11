@@ -7,5 +7,5 @@ Leveraging advanced analytics, this study aims to offer insights into the geogra
 
 Check out the findings here: <link> https://www.kaggle.com/code/rohit1386/aqi-analysis</link>
 
-## Data Acquisition and Processing¶
+## Data Acquisition
 The dataset is named "World Air Quality Index by City and Coordinates", is aquired from Kaggle and it is licensed under CC BY-NC-SA 4.0. https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates/data
